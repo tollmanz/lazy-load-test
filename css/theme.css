@@ -8,3 +8,11 @@ body {
 	margin: 50px auto;
 	width: 920px;
 }
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+	font-family: 'Bitter', serif;
+}
